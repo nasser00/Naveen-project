@@ -10,6 +10,5 @@ def generate_data_noise(y,r,noise_level):
     d=np.convolve(y,r) #convolution of walelet and reflectivity
     noise = np.random.normal(loc=0, scale=noise_level, size=d.shape)
     d_new = d+ noise
-    return(d_new)
-  
-    
+    return(d_new,d)
+
