@@ -1,4 +1,4 @@
-def generate_data(y,r,noise_level):
+def generate_data_noise(y,r,noise_level):
     """
     input 
     y=source wavelet matrix
