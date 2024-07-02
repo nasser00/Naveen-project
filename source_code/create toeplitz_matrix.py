@@ -12,4 +12,3 @@ def toep(p,wo):
     from scipy.linalg import toeplitz
     A=toeplitz(col,row)
     return(A)
-A=toep(p,y)
