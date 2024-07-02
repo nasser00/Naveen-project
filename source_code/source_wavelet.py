@@ -12,7 +12,7 @@ def ricker_wavelet(frequency, dt, length,phase_shift =np.pi/2):
     
     output
     
-    y_shifted =ricker wavelet
+    w =ricker wavelet
     t=time array
     """
 #     time array centered around zero
@@ -28,6 +28,6 @@ def ricker_wavelet(frequency, dt, length,phase_shift =np.pi/2):
     phase_shift_factor = np.exp(1j * phase_shift*np.sign(freqs))
     y_fft_shifted = y_fft * phase_shift_factor
 #     inverse FFT to get  phase-shifted wavelet in the time domain
-    y = np.real(np.fft.ifft(y_fft_shifted))
-    return y,t
+    w = np.real(np.fft.ifft(y_fft_shifted))
+    return w,t
 
