@@ -3,7 +3,7 @@
 
 this projects uses different deconvolution methods to  recover the reflectivity series from sesmic data .
 
-Different algorithm inclues :
+Different algorithm includes :
 
 1)gradient 
 
