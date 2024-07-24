@@ -1,18 +1,17 @@
-def huber(A,b,xo,my_lambda,Max_iter):
+def huber(A,b,xo,my_lambda,Max_iter,epsilon):
     """
     A=source wavelet matrix
     b= data vector
     my_lambda=regularization parameter
     xo=initial guess
     Max_iter= no of iteration
-        
+    epsilon =thresholding parameter    
     output
     x_sol=solution of our data
     final_iter=no of iterations taken 
     """
     import numpy as np
-    i=0
-    epsilon=0.001  
+    i=0  
     while i<Max_iter: 
         temp=(np.dot(A,xo)-b)
         r=np.dot(A.T,temp) #DEFINING RESIDUAL

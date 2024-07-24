@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def ricker_wavelet(frequency, dt, length,phase_shift =np.pi/2):
+def ricker_wavelet(frequency, dt, length,phase_shift):
     """
     input
     

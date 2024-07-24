@@ -1,4 +1,4 @@
-def gd_Rex(A,b,xo,my_lambda,Max_iter):
+def gd_Rex(A,b,xo,my_lambda,Max_iter,e):
     """
     input
     A=source wavelet matrix
@@ -6,7 +6,7 @@ def gd_Rex(A,b,xo,my_lambda,Max_iter):
     my_lambda=regularization parameter
     xo=initial guess
     Max_iter= no of iteration
-    
+    e=scaling factor
     output
     x_sol=solution of our data
     final_iter=no of iterations taken 
@@ -16,7 +16,6 @@ def gd_Rex(A,b,xo,my_lambda,Max_iter):
     import numpy as np
     i=0
     while i<Max_iter: 
-        e=0.000001
         temp=(np.dot(A,xo)-b)
         #use Re(x)norm in regularization term insted of L2 norm 
         #Re(x)=sqrt(x^2+e^2)-e
