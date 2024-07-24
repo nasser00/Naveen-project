@@ -27,7 +27,7 @@ Results are store at results folder within the source_code  directory
 data generated is saved in data  folder within the source_code  directory 
  `source_code/data`
 ## Demo
-To deploy this project run demo file and make sure that you are in source directory
+To deploy this project run demo file and make sure that you are in source_code directory
 
 https://github.com/nasser00/Naveen-project/blob/main/tutorial/demo.ipynb
 
