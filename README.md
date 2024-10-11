@@ -19,7 +19,9 @@ Different algorithm inclues :
 
 7)FISTA
 
-we tested each algorithm  on synthetically  generated sesimic data.you  can get the code for each algorithms  in the source code directory .Each algorithm woorks on a single trace 
+8)Blind deconvolution 
+
+we tested each algorithm  on  both synthetically  generated sesimic data and real data .you  can get the code for each algorithms  in the source code directory .Each algorithm works on a single trace.
 
 
 ## Results
