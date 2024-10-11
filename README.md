@@ -9,13 +9,15 @@ Different algorithm inclues :
 
 2)conjucate gradient
 
-3)Re(x) norm
+3)Hybrid 𝓁1∕𝓁2 norm
 
 4)huber norm
 
 5)cauchy norm 
 
 6)IRLS
+
+7)FISTA
 
 we tested each algorithm  on synthetically  generated sesimic data.you  can get the code for each algorithms  in the source code directory .Each algorithm woorks on a single trace 
 
