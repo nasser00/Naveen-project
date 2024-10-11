@@ -23,11 +23,11 @@ Different algorithm inclues :
 
 we tested each algorithm  on  both synthetically  generated sesimic data and real data .you  can get the code for each algorithms  in the source code directory .Each algorithm works on a single trace.
 
-
-## Results
-Results are autmatically  store at results folder `results`
 ## data
-data generated is saved in data  folder  `data`
+data generated is saved in data  folder  `data`.It contain data with noise and without noise.Also the source signature is stored in it 
+## Results
+Results are autmatically  store at results folder `results`.It contain results with noisy data and noise free data
+
 ## Demo
 To deploy this project run demo file and make sure that you are in source_code directory
 
