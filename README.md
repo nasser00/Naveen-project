@@ -42,3 +42,5 @@ matplotlib      ==          3.7.1
 numpy           ==          1.25.0
 
 scipy           ==          1.10.1
+
+seisplot        ==          1.1.0
