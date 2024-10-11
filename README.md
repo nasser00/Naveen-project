@@ -25,11 +25,11 @@ we tested each algorithm  on  both synthetically  generated sesimic data and rea
 
 
 ## Results
-Results are store at results folder within the source_code  directory
-`source_code/results`
+Results are autmatically  store at results folder
+`results`
 ## data
-data generated is saved in data  folder within the source_code  directory 
- `source_code/data`
+data generated is saved in data  folder  
+ `data`
 ## Demo
 To deploy this project run demo file and make sure that you are in source_code directory
 
