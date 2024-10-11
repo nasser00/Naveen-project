@@ -1,5 +1,5 @@
 
-# Regularized Linear Inversion Techniques
+# Regularized  Inversion Techniques
 
 this projects uses different deconvolution methods to  recover the reflectivity series from sesmic data .
 
