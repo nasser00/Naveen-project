@@ -29,9 +29,8 @@ data generated is saved in data  folder  `data`.It contain data with noise and w
 Results are autmatically  store at results folder `results`.It contain results with noisy data and noise free data
 
 ## Demo
-To deploy this project run dtutorial  file and make sure that you are in source_code directory
-
-https://github.com/nasser00/Naveen-project/blob/main/tutorial/demo.ipynb
+To deploy this project run tutorial  file in source folder  and make sure that you are in source_code directory
+https://github.com/nasser00/Naveen-project/blob/main/source_code/tutorial.ipynb
 
 
 ## dependencies 
