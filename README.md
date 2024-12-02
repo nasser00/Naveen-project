@@ -1,9 +1,9 @@
 
 # Regularized  Inversion Techniques
 
-this projects uses different deconvolution methods to  recover the reflectivity series from sesmic data .
+This projects uses different iterative methods to recover the reflectivity series from sesmic data. The package can be used for any linearized inversion problem.
 
-Different algorithm inclues :
+Different algorithms included in the package :
 
 1)Steepest Descent with smoothness regularization
 2)Steepest Descent with sparsirty regularization (Huber, Cauchy, Hybrid norms)
