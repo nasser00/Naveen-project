@@ -5,23 +5,15 @@ this projects uses different deconvolution methods to  recover the reflectivity 
 
 Different algorithm inclues :
 
-1)gradient 
+1)Steepest Descent with smoothness regularization
+2)Steepest Descent with sparsirty regularization (Huber, Cauchy, Hybrid norms)
+3)Conjucate gradient with smoothness regularization
+4)Conjucate gradient with sparsirty regularization (Iterative Re-wieghted Least squares Algorithm)
+5) Fast Iterative Shrinkage Thresholding Algorithm
+5) Alternating minimization Algorithm
 
-2)conjucate gradient
 
-3)Hybrid 𝓁1∕𝓁2 norm
-
-4)huber norm
-
-5)cauchy norm 
-
-6)IRLS
-
-7)FISTA
-
-8)Blind deconvolution 
-
-we tested each algorithm  on  both synthetically  generated sesimic data and real data .you  can get the code for each algorithms  in the source code directory .Each algorithm works on a single trace.
+We tested each algorithm  on  both synthetically  generated sesimic data and real data .you  can get the code for each algorithms  in the source code directory .Each algorithm works on a single trace.
 
 ## data
 data generated is saved in data  folder  `data`.It contain data with noise and without noise.Also the source signature is stored in it 
