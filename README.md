@@ -13,7 +13,7 @@ Different algorithms included in the package :
 5) Alternating minimization Algorithm
 
 
-We tested each algorithm  on  both synthetically  generated sesimic data and real data .you  can get the code for each algorithms  in the source code directory .Each algorithm works on a single trace.
+We tested each algorithm  on  both synthetically  generated seismic data and real data .you  can get the code for each algorithms  in the source code directory .Each algorithm works on a single trace.
 
 ## data
 data generated is saved in data  folder  `data`.It contain data with noise and without noise.Also the source signature is stored in it 
