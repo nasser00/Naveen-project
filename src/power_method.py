@@ -25,3 +25,5 @@ def power_method(H, x, max_iter=10):
         value = n
 #         print(k,value)
     return value
+
+
