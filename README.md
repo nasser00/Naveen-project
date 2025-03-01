@@ -40,7 +40,7 @@ link:-https://github.com/nasser00/Naveen-project/tree/main/src/Demo_decon_real_2
 
 4)Demo_synthetic_radon.ipynb:- Multiple supression in synthetic data set 
 
-link:-https://github.com/nasser00/Naveen-project/tree/main/src/Demo_synthetic_radon.ipynb
+link:-http://github.com/nasser00/Naveen-project/blob/main/Tutorials/Demo_syn_radon.ipynb
 
 5)Demo_real_radon.ipynb:-Multiple supression in real data set 
 
