@@ -14,10 +14,11 @@ Different algorithms included in the package :
 
 
 We tested each algorithm  on  both synthetically  generated seismic data and real data .you  can get the code for each algorithms  in the `src` directory .Each algorithm works trace by trace 
-# Application
-Multiple supression using steepest descent with Hoyer norm for real and synthetic data  
+
 ## data
 synthetic data generated is saved in   `data` directory.It contain data with noise and without noise.Also the source signature is stored in it 
+# Application
+Multiple supression using steepest descent with Hoyer norm for real and synthetic data  
 ## Results
 Results are autmatically  store at results folder `results`.It contain results with noisy data and noise free data .It shows the deconvolution perform on 2D siesmic data set and multiple supression on real and synthetic data 
 
