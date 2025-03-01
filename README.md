@@ -36,7 +36,7 @@ link:-https://github.com/nasser00/Naveen-project/tree/main/src/Demo_syn_decon_2D
 
 3)Demo_decon_real_2D.ipynb:-2D deconvolution problem has performed in this demo on real data
 
-link:-https://github.com/nasser00/Naveen-project/tree/main/src/Demo_decon_real_2D.ipynb
+link:-https://github.com/nasser00/Naveen-project/tree/main/src/Demo_decon_2D.ipynb
 
 4)Demo_synthetic_radon.ipynb:- Multiple supression in synthetic data set 
 
