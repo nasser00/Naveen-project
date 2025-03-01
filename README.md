@@ -26,15 +26,25 @@ Results are autmatically  store at results folder `results`.It contain results w
 It contains five Demo files , all the Demo file must run in  must be run in `src` directory .
 To deploy this project run Demos in present in   file in `src` directory  and make sure that you are in src director
 1)Demo_decon.ipynb:-1D deconvolution problem has performed in this demo on synthetic data
+
 https://github.com/nasser00/Naveen-project/tree/main/src/Demo_decon.ipynb
+
 2)Demo_syn_decon_2D.ipynb:-2D deconvolution problem has performed in this demo on synthetic data
+
 https://github.com/nasser00/Naveen-project/tree/main/src/Demo_syn_decon_2D.ipynb
+
 3)Demo_decon_real_2D.ipynb:-2D deconvolution problem has performed in this demo on real data
+
 https://github.com/nasser00/Naveen-project/tree/main/src/Demo_decon_real_2D.ipynb
+
 4)Demo_synthetic_radon.ipynb:- Multiple supression in synthetic data set 
+
 https://github.com/nasser00/Naveen-project/tree/main/src/Demo_synthetic_radon.ipynb
+
 5)Demo_real_radon.ipynb:-Multiple supression in real data set 
+
 https://github.com/nasser00/Naveen-project/tree/main/src/Demo_real_radon.ipynb
+
 
 ## dependencies 
 matplotlib      ==          3.7.1
