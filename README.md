@@ -15,7 +15,7 @@ Different algorithms included in the package :
 
 We tested each algorithm  on  both synthetically  generated seismic data and real data .You  can get the code for each algorithm in the `src` directory .
 
-## data
+## Data
 Data is saved in the `data` directory. 
 # Application
 Seismic deconvolution and multiple supression for synthetic and real data  
