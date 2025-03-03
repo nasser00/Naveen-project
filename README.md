@@ -1,26 +1,26 @@
 
 # Regularized  Inversion Techniques
 
-This projects uses different iterative methods to recover the reflectivity series from sesmic data. The package can be used for any linearized inversion problem.
+This projects uses different iterative methods for generalized linear inversion. The deconvolution and multiple suppression applications are also included in the package. The package can be used for any linearized inversion problem.
 
 Different algorithms included in the package :
 
 1)Steepest Descent with smoothness regularization
-2)Steepest Descent with sparsirty regularization (Huber, Cauchy, Hybrid and Hoyer squared norms)
+2)Steepest Descent with sparsirty regularization (Huber, Cauchy, Hybrid and Hoyer-squared norms)
 3)Conjucate gradient with smoothness regularization
 4)Conjucate gradient with sparsirty regularization (Iterative Re-wieghted Least squares Algorithm)
 5) Fast Iterative Shrinkage Thresholding Algorithm
 6) Alternating minimization Algorithm
 
 
-We tested each algorithm  on  both synthetically  generated seismic data and real data .you  can get the code for each algorithms  in the `src` directory .Each algorithm works trace by trace 
+We tested each algorithm  on  both synthetically  generated seismic data and real data .You  can get the code for each algorithms  in the `src` directory .
 
 ## data
-synthetic data generated is saved in   `data` directory.It contain data with noise and without noise.Also the source signature is stored in it 
+Data is saved in the `data` directory. 
 # Application
-Multiple supression using steepest descent with Hoyer norm for real and synthetic data  
+Seismic deconvolution and multiple supression for synthetic and real data  
 ## Results
-Results are autmatically  store at results folder `results`.It contain results with noisy data and noise free data .It shows the deconvolution perform on 2D siesmic data set and multiple supression on real and synthetic data 
+Results are autmatically  store at results folder `results`. It contain results with noisy data and noise free data . It shows the deconvolution perform on 2D siesmic data set and multiple supression on synthetic and real data  
 
 ## Tutorial 
 It contains five Demo files , all the Demo file must run in  must be run in `src` directory .
