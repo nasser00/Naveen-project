@@ -65,7 +65,7 @@ Data is saved in the `data` directory.
 # Application
 Seismic deconvolution and multiple supression for synthetic and real data  
 ## Results
-Results are autmatically  store at results folder `results`. It contain results with noisy data and noise free data . It shows the deconvolution perform on 2D siesmic data set and multiple supression on synthetic and real data  
+Results are autmatically  stored at the folder `results`. It contain results with noisy data and noise-free data . It shows the deconvolution problem on 2D siesmic data set and multiple supression on synthetic and real data  
 
 ## Tutorial 
 It contains five Demo files. All the Demo files must be run in `src` directory .
