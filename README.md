@@ -21,7 +21,7 @@ Different algorithms included in the package :
 We tested each algorithm  on  both synthetically  generated seismic data and real data .You  can get the code for each algorithm in the `src` directory .
 
 ## Paper
-The package is based on the work pulbishe in the Computers and Geosciences journal:
+The package is based on the work published in the Computers and Geosciences journal:
 
 Naveen Gupta, Nasser Kazemi, PyInvGeo: An open-source Python package for regularized linear inversion in geophysics,
 Computers & Geosciences, Volume 202, 2025, 105948, https://doi.org/10.1016/j.cageo.2025.105948.
@@ -54,9 +54,9 @@ We welcome comments and feedback.
 
 ## Why to use the PyInvGeo package:
 
-1) the package is not heavily dependent on third-party solvers and libraries
+1) The package is not heavily dependent on third-party solvers and libraries
  
-2) all the codes are easily accessible
+2) All the codes are easily accessible
  
 3) Development of new codes and ideas is easy 
 
