@@ -13,9 +13,9 @@ Different algorithms included in the package :
 
 4)Conjucate gradient with sparsirty regularization (Iterative Re-wieghted Least squares Algorithm)
 
-5) Fast Iterative Shrinkage Thresholding Algorithm
-   
-6) Alternating minimization Algorithm
+5)Fast Iterative Shrinkage Thresholding Algorithm
+
+6)Alternating minimization Algorithm
 
 
 We tested each algorithm  on  both synthetically  generated seismic data and real data .You  can get the code for each algorithm in the `src` directory .
