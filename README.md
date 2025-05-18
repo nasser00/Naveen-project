@@ -6,10 +6,15 @@ This projects uses different iterative methods for generalized linear inversion.
 Different algorithms included in the package :
 
 1)Steepest Descent with smoothness regularization
+
 2)Steepest Descent with sparsirty regularization (Huber, Cauchy, Hybrid and Hoyer-squared norms)
+
 3)Conjucate gradient with smoothness regularization
+
 4)Conjucate gradient with sparsirty regularization (Iterative Re-wieghted Least squares Algorithm)
+
 5) Fast Iterative Shrinkage Thresholding Algorithm
+   
 6) Alternating minimization Algorithm
 
 
@@ -23,24 +28,36 @@ Computers & Geosciences, Volume 202, 2025, 105948, https://doi.org/10.1016/j.cag
 
 How to cite the paper:
 
-@article{GUPTA2025105948,\\
-title = {PyInvGeo: An open-source Python package for regularized linear inversion in geophysics},\\
-journal = {Computers & Geosciences},\\
-volume = {202},\\
-pages = {105948},\\
-year = {2025},\\
-issn = {0098-3004},\\
-doi = {https://doi.org/10.1016/j.cageo.2025.105948},\\
-url = {https://www.sciencedirect.com/science/article/pii/S0098300425000986},\\
-author = {Naveen Gupta and Nasser Kazemi}\\
+@article{GUPTA2025105948,
+
+title = {PyInvGeo: An open-source Python package for regularized linear inversion in geophysics},
+
+journal = {Computers & Geosciences},
+
+volume = {202},
+
+pages = {105948},
+
+year = {2025},
+
+issn = {0098-3004},
+
+doi = {https://doi.org/10.1016/j.cageo.2025.105948},
+
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000986},
+
+author = {Naveen Gupta and Nasser Kazemi}
+
 }
 
 We welcome comments and feedback. 
 
 ## Why to use the PyInvGeo package:
 
-1) the package is not heavily dependent on third-party solvers and libraries.
-2) all the codes are easily accessible 
+1) the package is not heavily dependent on third-party solvers and libraries
+ 
+2) all the codes are easily accessible
+ 
 3) Development of new codes and ideas is easy 
 
 ## Data
