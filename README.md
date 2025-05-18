@@ -15,6 +15,33 @@ Different algorithms included in the package :
 
 We tested each algorithm  on  both synthetically  generated seismic data and real data .You  can get the code for each algorithm in the `src` directory .
 
+## Paper
+The package is based on the work pulbishe in the Computers and Geosciences journal:
+Naveen Gupta, Nasser Kazemi, PyInvGeo: An open-source Python package for regularized linear inversion in geophysics,
+Computers & Geosciences, Volume 202, 2025, 105948, https://doi.org/10.1016/j.cageo.2025.105948.
+
+How to cite the paper:
+
+@article{GUPTA2025105948,
+title = {PyInvGeo: An open-source Python package for regularized linear inversion in geophysics},
+journal = {Computers & Geosciences},
+volume = {202},
+pages = {105948},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105948},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000986},
+author = {Naveen Gupta and Nasser Kazemi}
+}
+
+We welcome comments and feedback. 
+
+## Why to use the PyInvGeo package:
+
+1) the package is not heavily dependent on third-party solvers and libraries.
+2) all the codes are easily accessible 
+3) Development of new codes and ideas is easy 
+
 ## Data
 Data is saved in the `data` directory. 
 # Application
@@ -23,8 +50,7 @@ Seismic deconvolution and multiple supression for synthetic and real data
 Results are autmatically  store at results folder `results`. It contain results with noisy data and noise free data . It shows the deconvolution perform on 2D siesmic data set and multiple supression on synthetic and real data  
 
 ## Tutorial 
-It contains five Demo files , all the Demo file must run in  must be run in `src` directory .
-To deploy this project run Demos in present in   file in `src` directory  and make sure that you are in src director
+It contains five Demo files. All the Demo files must be run in `src` directory .
 
 1)Demo_decon.ipynb:-1D deconvolution problem has performed in this demo on synthetic data
 
