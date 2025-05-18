@@ -17,21 +17,22 @@ We tested each algorithm  on  both synthetically  generated seismic data and rea
 
 ## Paper
 The package is based on the work pulbishe in the Computers and Geosciences journal:
+
 Naveen Gupta, Nasser Kazemi, PyInvGeo: An open-source Python package for regularized linear inversion in geophysics,
 Computers & Geosciences, Volume 202, 2025, 105948, https://doi.org/10.1016/j.cageo.2025.105948.
 
 How to cite the paper:
 
-@article{GUPTA2025105948,
-title = {PyInvGeo: An open-source Python package for regularized linear inversion in geophysics},
-journal = {Computers & Geosciences},
-volume = {202},
-pages = {105948},
-year = {2025},
-issn = {0098-3004},
-doi = {https://doi.org/10.1016/j.cageo.2025.105948},
-url = {https://www.sciencedirect.com/science/article/pii/S0098300425000986},
-author = {Naveen Gupta and Nasser Kazemi}
+@article{GUPTA2025105948,\\
+title = {PyInvGeo: An open-source Python package for regularized linear inversion in geophysics},\\
+journal = {Computers & Geosciences},\\
+volume = {202},\\
+pages = {105948},\\
+year = {2025},\\
+issn = {0098-3004},\\
+doi = {https://doi.org/10.1016/j.cageo.2025.105948},\\
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000986},\\
+author = {Naveen Gupta and Nasser Kazemi}\\
 }
 
 We welcome comments and feedback. 
