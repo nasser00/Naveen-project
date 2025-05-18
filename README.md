@@ -52,7 +52,7 @@ author = {Naveen Gupta and Nasser Kazemi}
 
 We welcome comments and feedback. 
 
-## Why to use the PyInvGeo package:
+## Why use the PyInvGeo package:
 
 1) The package is not heavily dependent on third-party solvers and libraries
  
