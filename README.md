@@ -1,5 +1,5 @@
 
-# Regularized  Inversion Techniques
+# Regularized  Inversion Techniques: PyInvGeo package
 
 This projects uses different iterative methods for generalized linear inversion. The deconvolution and multiple suppression applications are also included in the package. The package can be used for any linearized inversion problem.
 
